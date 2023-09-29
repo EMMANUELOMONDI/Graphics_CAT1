@@ -27,4 +27,8 @@ The --data-dir points to the directory where our data is located , the --outout-
 
 - QUESTION 3 - Generate one large json file showing all the translations from en to xx with id and utt for all the train sets.
   
-- a ) Pretty print your json file structure. 
+- a ) Pretty print your json file structure.
+
+- SOLUTION
+
+- The third solution was implemented in the generate_transactions.py script which is run using the (python generate_translations.py). On running this it outputs a file named translations.json which shows all the transactions from en to xx with id and utt for all the train sets.
