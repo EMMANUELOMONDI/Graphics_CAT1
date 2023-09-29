@@ -1,7 +1,7 @@
 # CGCATO1
-QUESTION 1 - Python3 Development Environment					         10 Marks
+- QUESTION 1 - Python3 Development Environment					         10 Marks
 
-Set up a new Python3 Development environment for this assessment. Install all the dependencies that you think will be relevant. 
+- Set up a new Python3 Development environment for this assessment. Install all the dependencies that you think will be relevant. 
 
 Build a Python3 project with the structure of projects in PyCharm then import the MASSIVE Dataset mentioned on the Data File above. 
 
