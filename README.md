@@ -1,5 +1,6 @@
 # CGCATO1
-## - QUESTION 1 - Python3 Development Environment					         10 Marks
+
+## QUESTION 1 - Python3 Development Environment					         10 Marks
 
  Set up a new Python3 Development environment for this assessment. Install all the dependencies that you think will be relevant. 
 
@@ -15,7 +16,7 @@ The first solution was implemented using flag. It was executed using the generat
 
 The --input-dir points to the directory with our dataset containing JSONL files, the --output-dir points to the directory where Excel files will be saved
 
-## - QUESTION 2 - Working with Files							         10 Marks
+## QUESTION 2 - Working with Files							         10 Marks
   
 For English (en), Swahili (sw) and German (de), generate separate jsonl files with test, train and dev respectively. 
 
@@ -25,9 +26,9 @@ The second solution was implemented using flags. It was executed using the gener
 
 The --data-dir points to the directory where our data is located , the --outout-dir points to the directory where the outputs will be saved in the output_split folder
 
-## - QUESTION 3 - Generate one large json file showing all the translations from en to xx with id and utt for all the train sets.
+## QUESTION 3 - Generate one large json file showing all the translations from en to xx with id and utt for all the train sets.
   
-## - a ) Pretty print your json file structure.
+## a ) Pretty print your json file structure.
 
 - SOLUTION
 
