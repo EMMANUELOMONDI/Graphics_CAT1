@@ -24,3 +24,7 @@ For English (en), Swahili (sw) and German (de), generate separate jsonl files wi
 The second solution was implemented using flags. It was executed using the generate_jsonl_splits.py script which is run using the(python generate_jsonl_splits.py --data-dir data --output-dir output_split) command on the terminal
 
 The --data-dir points to the directory where our data is located , the --outout-dir points to the directory where the outputs will be saved in the output_split folder
+
+- QUESTION 3 - Generate one large json file showing all the translations from en to xx with id and utt for all the train sets.
+  
+- a ) Pretty print your json file structure. 
