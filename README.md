@@ -15,3 +15,12 @@ The first solution was implemented using flag. It was executed using the generat
 
 The --input-dir points to the directory with our dataset containing JSONL files, the --output-dir points to the directory where Excel files will be saved
 
+- QUESTION 2 - Working with Files							         10 Marks
+  
+For English (en), Swahili (sw) and German (de), generate separate jsonl files with test, train and dev respectively. 
+
+- SOLUTION
+
+The second solution was implemented using flags. It was executed using the generate_jsonl_splits.py script which is run using the(python generate_jsonl_splits.py --data-dir data --output-dir output_split) command on the terminal
+
+The --data-dir points to the directory where our data is located , the --outout-dir points to the directory where the outputs will be saved in the output_split folder
