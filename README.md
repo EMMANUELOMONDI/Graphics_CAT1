@@ -10,6 +10,7 @@
  Have a look at Flags to help you run this on your generator.sh file
 
  - SOLUTION
+   
 The first solution was implemented using flag. It was executed using the generate_xlsx.py script which is run using the( python generate_xlsx.py --input-dir data --output-dir output_flag)command on the terminal
 
 The --input-dir points to the directory with our dataset containing JSONL files, the --output-dir points to the directory where Excel files will be saved
