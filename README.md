@@ -1,5 +1,4 @@
-
-# Computer Graphics CAT1 GROUP 7
+# Computer Graphics CAT 1 GROUP 7
 ## About 
 This is a Python project with the intention of manipulating data from a massive dataset and also working with files to carry out tasks assigned. 
 ## Technologies used
