@@ -22,7 +22,7 @@ Upload all the files to your Google Drive Backup Folder.
 - `generate_jsonl_splits.py`- Function to write data to JSONL file
 - `generate_translations.py`- Function to filter data by language and split 
 
-## Dependencies Used
+## Dependencies Used 
 - `os`: module provides a way of using operating system-dependent functionality, such as working with files and directories 
 - `json`:module is used for working with JSON (JavaScript Object Notation) data
 - `openpyxl`: for reading and writing Excel (XLSX) files.
