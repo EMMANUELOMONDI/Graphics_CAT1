@@ -1,15 +1,27 @@
 import json
 import os
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ffbd24a2d335e5b5e928df16604c156faf0526a
 # Function to filter data by language and split
 def filter_data(data, language, split):
     return [item for item in data if item["locale"] == language and item["partition"] == split]
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ffbd24a2d335e5b5e928df16604c156faf0526a
 # Function to write data to JSON file
 def write_json(data, output_filename):
     with open(output_filename, "w", encoding="utf-8") as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ffbd24a2d335e5b5e928df16604c156faf0526a
 def main():
     data_dir = "data"  # Replace with the path to your data directory
     output_filename = "translations.json"
@@ -35,6 +47,10 @@ def main():
     # Write the translations to the output JSON file and pretty print
     write_json(translations, output_filename)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ffbd24a2d335e5b5e928df16604c156faf0526a
 if __name__ == "__main__":
     main()
 
