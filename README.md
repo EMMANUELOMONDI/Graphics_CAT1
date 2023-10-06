@@ -20,7 +20,7 @@
 
 - [Authors](https://github.com/EMMANUELOMONDI/Graphics_CAT1#authors)
 
-## Introduction
+## Introduction to task
 
 This repository contains code that makes use of the MASSIVE dataset by amazon using python. MASSIVE is a parallel dataset of more than 1 million utterances across 52 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation. Utterances span 60 intents and include 55 slot types.
 
