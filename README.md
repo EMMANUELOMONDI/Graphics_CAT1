@@ -119,5 +119,5 @@ The project's output files were backed up on Google Drive and can be accessed [h
 1. 145182 - Omondi Emmanuel
 2. 1455369 - Wango Michael
 3. 144915 - Mahia Jerome
-4. 94230 - Nathan Njonge
-5. 146202 - Mugambi Rintaugu
+4. 94230 - Njonge Nathan
+5. 146202 - Rintaugu Mugambi
