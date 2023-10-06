@@ -117,7 +117,7 @@ The project's output files were backed up on Google Drive and can be accessed [h
 
 ## Authors
 1. 145182 - Omondi Emmanuel
-2. 1445369 - Wango Michael
+2. 1455369 - Wango Michael
 3. 144915 - Mahia Jerome
 4. 94230 - Nathan Njonge
 5. 146202 - Mugambi Rintaugu
