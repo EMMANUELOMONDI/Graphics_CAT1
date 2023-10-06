@@ -27,7 +27,6 @@ def main():
     Filter the data based on the "partition" key
     Write data to the output JSONL file
     """
-
     parser = argparse.ArgumentParser(description="Generate separate JSONL files for multiple locales and data splits.")
     parser.add_argument("--data-dir", required=True, help="Directory containing JSONL files")
     parser.add_argument("--output-dir", required=True, help="Directory where JSONL files will be saved")

@@ -21,7 +21,6 @@ def generate_excel(language, data, output_dir):
     Add data to the Excel sheet
     Save the Excel file
     """
-
     excel_filename = os.path.join(output_dir, f"en-{language}.xlsx")
 
     workbook = Workbook()
@@ -59,7 +58,7 @@ def main():
 
     # Process each JSONL file
     for jsonl_file in jsonl_files:
-        language = jsonl_file.split(".")[0]  # Extract language code from filename
+        language = jsonl_file.split(".")[0].split("-")[0]  # Extract language code from filename
 
         with open(os.path.join(input_dir, jsonl_file), "r", encoding="utf-8") as file:
             jsonl_data = file.readlines()
